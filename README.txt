@@ -7,4 +7,4 @@ Ce repository Git contient :
 
 - Un fichier nommé "README.txt" qui présente le projet;
 - 2 autres fichiers (ils peuvent contenir des scripts de code, du texte sur un projet personnel...);
-- 4 commits distincts montrant l’ajout puis la modification de certains fichiers.
+- Au moins 4 commits distincts montrant l’ajout puis la modification de certains fichiers.
